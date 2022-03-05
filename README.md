@@ -1,5 +1,5 @@
 - 👋 Hola soy Jeronimo Vera
-- 
+
 - 👀 Soy un estudiante avanzado de la Tecnicatura Universitaria en Programación. Me gusta realizar proyectos individuales que propongan un reto para mi
       el proyecto que estoy actualizando cada 5 dias aproximadamente se llama "Crud tarjetas", el mismo tiene un readme para que notes de que se trata, ya que no es solo un crud.
       
