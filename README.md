@@ -7,7 +7,7 @@
      Si te gustaria acceder a mi CV ve al siguiente link: https://drive.google.com/file/d/19VTmFhuBMziPYBhtuRNZ1XkF06B3494v/view?usp=sharing
 
 - 📫 Si quieres un contacto directo buscame en: 
-      Celular:03534260220
+      Celular: 03534260220 //
       Gmail: jerovera2016@gmail.com
 
 
