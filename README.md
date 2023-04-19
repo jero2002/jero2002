@@ -15,6 +15,6 @@
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Puedes tambien puedes encontrarme en linkedin:https://www.linkedin.com/in/jeronimo-vera-galvalisi-31b0a7178/
+Puedes tambien puedes encontrarme en [Linkedin](https://www.linkedin.com/in/jeronimo-vera-galvalisi-31b0a7178/)
 
 
