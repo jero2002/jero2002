@@ -2,4 +2,3 @@
 
 ¡Hola! ¡Bienvenido a mi GitHub! Soy Jerónimo, un chico divertido y positivo que disfruta tanto de programar como del fútbol. Aquí encontrarás todos mis trabajos personales, desarrollados en los siguientes lenguajes:
 
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
