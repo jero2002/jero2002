@@ -2,3 +2,4 @@
 
 ¡Hola! ¡Bienvenido a mi GitHub! Soy Jerónimo, un chico divertido y positivo que disfruta tanto de programar como del fútbol. Aquí encontrarás todos mis trabajos personales, desarrollados en los siguientes lenguajes:
 
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
